@@ -165,3 +165,6 @@ Server Files in it
 - Run rssi_to_point.py on Server
 
 - Run App to See Respective Positions          
+
+
+## Kindly extract WiFi_RSSI.zip file in same location.
